@@ -1,0 +1,2 @@
+FORM tomcat:jdk11-corretto
+COPY taget/maven-web-app*.war /usr/local/tomcat/webapps/
